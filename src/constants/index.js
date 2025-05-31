@@ -32,7 +32,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Sanyasipuram 2nd Street, Medavakkam Tank Road, Kilpauk, Tamil Nadu, India",
+  address: "Medavakkam Tank Road, Tamil Nadu, India",
   phoneNo: "+91 9360678451",
   email: "jaikrishna@gmail.com",
 };
