@@ -41,11 +41,11 @@ const Contact = () => {
             transition={{duration:0.5}}
             onSubmit={onSubmit} className="lg:mx-20 my-20 flex flex-col items-start justify-center gap-4">
                 <label className='my-1' htmlFor="">Your Name:</label>
-                <input className='mb-4 p-3 bg-neutral-900 rounded-2xl w-70 lg:w-xl md:w-xl' type="text" placeholder='Enter Your Name' name='name' />
+                <input className='mb-4 p-3 bg-neutral-900 rounded-2xl w-70 lg:w-xl md:w-xl' type="text" placeholder='Enter Your Name' name='name' required />
                 <label className='my-1' htmlFor="">Your Email:</label>
-                <input className='mb-4 p-3 bg-neutral-900 rounded-2xl w-70 lg:w-xl md:w-xl' type="email" placeholder='Enter Your Email' name='email' />
+                <input className='mb-4 p-3 bg-neutral-900 rounded-2xl w-70 lg:w-xl md:w-xl' type="email" placeholder='Enter Your Email' name='email' required />
                 <label className='my-1' htmlFor="">Write your message here</label>
-                <textarea className='mb-4 p-3 bg-neutral-900 rounded-2xl w-70 md:w-xl' name="message" rows="8" placeholder='Enter Your Message'></textarea>
+                <textarea className='mb-4 p-3 bg-neutral-900 rounded-2xl w-70 md:w-xl' name="message" rows="8" placeholder='Enter Your Message' required></textarea>
                 <div className="relative inline-flex  group">
                     <div
                         className="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
