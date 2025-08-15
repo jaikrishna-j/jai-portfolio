@@ -32,9 +32,9 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Medavakkam Tank Road, Tamil Nadu, India",
-  phoneNo: "+91 9360678451",
-  email: "jaikrishna@gmail.com",
+  address: "Ayanavaram, Tamil Nadu, India",
+  phoneNo: "+91 9360679380",
+  email: "jaikrishnajaisankar2005@gmail.com",
 };
 
 
