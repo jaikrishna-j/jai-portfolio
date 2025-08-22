@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../assets/JaikrishnaLogo.png';
 import { FaLinkedin } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa6';
-import { FaFacebook } from 'react-icons/fa';
+// import { FaFacebook } from 'react-icons/fa';
 import { FaInstagram } from 'react-icons/fa';
 import { motion } from 'framer-motion' 
 
