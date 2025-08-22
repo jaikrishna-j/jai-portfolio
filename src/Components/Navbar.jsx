@@ -13,10 +13,10 @@ const Navbar = () => {
                <a href="#contact"> <img className="mx-2 w-12 " src={logo} alt="logo" /></a>
             </div>
             <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-                <a href='https://www.linkedin.com/' className="cursor-pointer"><FaLinkedin /></a>
-                <a href='https://github.com/' className="cursor-pointer"><FaGithub /></a>
-                <a href='https://www.facebook.com/' className="cursor-pointer"><FaFacebook /></a>
-                <a href='https://www.instagram.com/' className="cursor-pointer"><FaInstagram /></a>
+                <a href='https://www.linkedin.com/in/jaikrishna-j/' className="cursor-pointer"><FaLinkedin /></a>
+                <a href='https://github.com/jaikrishna-j/' className="cursor-pointer"><FaGithub /></a>
+                {/* <a href='https://www.facebook.com/' className="cursor-pointer"><FaFacebook /></a> */}
+                <a href='https://www.instagram.com/__.xkrishx.__/' className="cursor-pointer"><FaInstagram /></a>
             </div>
         </nav>
     )
