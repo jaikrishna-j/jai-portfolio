@@ -32,9 +32,8 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Ayanavaram, Tamil Nadu, India",
-  phoneNo: "+91 9360679380",
-  email: "jaikrishnajaisankar2005@gmail.com",
+  address: "Chennai, Tamil Nadu, India",
+  email: "krish.sysdevops@gmail.com",
 };
 
 
