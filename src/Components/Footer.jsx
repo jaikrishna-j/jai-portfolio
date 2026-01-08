@@ -16,7 +16,6 @@ const Footer = () => {
         transition={{duration:1.5}}
         className="text-center tracking-tighter">
             <p className="my-4">{CONTACT.address}</p>
-            <p className="my-4">{CONTACT.phoneNo}</p>
             <a href="#">{CONTACT.email}</a>
         </motion.div>
     </div>
